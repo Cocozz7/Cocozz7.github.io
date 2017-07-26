@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 ## Welcome to Cocozz's chill page, enjoy your stay!
