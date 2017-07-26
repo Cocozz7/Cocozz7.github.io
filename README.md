@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Cocozz's chill page, enjoy your stay!
 
 You can use the [editor on GitHub](https://github.com/Cocozz7/Cocozz7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The beggining of something big! ..okay its just a useless website, but its a start!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Since there is nothing to do here, you can take your time to find inner-peace or just.. stare?
 
 ```markdown
 Syntax highlighted code block
