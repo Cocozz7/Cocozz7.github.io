@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### The beggining of something big! ..okay its just a useless website, but its a start!
 
-Since there is nothing to do here, you can take your time to find inner-peace or just.. stare?
+Since there is nothing to do here, you can take your time to find iner-peace or just.. stare?
 
 ```markdown
 Syntax highlighted code block
