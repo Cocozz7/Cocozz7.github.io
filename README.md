@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 ## Welcome to Cocozz's chill page, enjoy your stay!
 
 You can use the [editor on GitHub](https://github.com/Cocozz7/Cocozz7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
